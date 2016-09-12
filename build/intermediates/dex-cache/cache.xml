@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android_app\alipay_demo1\app\libs\alipaySdk-20160825.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="08cfc3ced256c0e40853f35882c6bd23a191b416">
+        <dex dex="E:\Android_app\alipay_demo1\app\build\intermediates\pre-dexed\debug\alipaySdk-20160825_f81261ddc62ac26c0d368c182bf35467756b7ef8.jar" />
+    </item>
+    <item
+        jar="E:\Android_app\alipay_demo1\app\libs\android-support-v13.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5b3db0befb5f9a8c310ca661ea2f67da12871fa2">
+        <dex dex="E:\Android_app\alipay_demo1\app\build\intermediates\pre-dexed\debug\android-support-v13_8cc40878b4edac6551913f9117bbd4b6ea3b84f7.jar" />
+    </item>
+    <item
+        jar="E:\Android_app\alipay\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1fad629c7241e2ff28250f61277357fa8978a180">
+        <dex dex="E:\Android_app\alipay\app\build\intermediates\pre-dexed\debug\instant-run_f37bf744782117884355c6acb4edd24c26dab7a5.jar" />
+    </item>
+    <item
+        jar="E:\Android_app\alipay\app\libs\android-support-v13.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5b3db0befb5f9a8c310ca661ea2f67da12871fa2">
+        <dex dex="E:\Android_app\alipay\app\build\intermediates\pre-dexed\debug\android-support-v13_4421ff88607e841337ca3bde7edc0a90b7907df5.jar" />
+    </item>
+    <item
+        jar="E:\Android_app\alipay_demo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="973a713b34522a936c0d79e9a22a5ed91f777c80">
+        <dex dex="E:\Android_app\alipay_demo1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b67cf02d5701937726fc04f1080af6d10f397d65.jar" />
+    </item>
+    <item
+        jar="E:\Android_app\alipay\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9d63cd06c224bc0ccc16ce2541b2d3c4728070e0">
+        <dex dex="E:\Android_app\alipay\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_cdec8a2ef7845e2b1e0061c9ef2ef2c44f89b429.jar" />
+    </item>
+    <item
+        jar="E:\Android_app\alipay\app\libs\alipaySdk-20160825.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="08cfc3ced256c0e40853f35882c6bd23a191b416">
+        <dex dex="E:\Android_app\alipay\app\build\intermediates\pre-dexed\debug\alipaySdk-20160825_ff710f3e5f9ed735f73d27ce6bbf85adedc7f2fa.jar" />
+    </item>
+    <item
+        jar="E:\Android_app\alipay_demo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ed2cdd647b04b4e86d55efd69c3d624b31d58509">
+        <dex dex="E:\Android_app\alipay_demo1\app\build\intermediates\pre-dexed\debug\instant-run_53b47b9989fbbffbbee274e7ef82ec36e149c3f5.jar" />
+    </item>
+
+</items>
